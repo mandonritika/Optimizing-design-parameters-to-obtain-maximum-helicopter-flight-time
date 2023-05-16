@@ -6,6 +6,7 @@ discusses about the significant factors that will help us achieve the longest po
 <p align="center">
   <img width="302" alt="image" src="https://github.com/mandonritika/DOE_Helicopter-Flight-Time/assets/121888216/1b302d9b-f8bf-468b-8d08-e28cc1028653">
  </p> 
+ 
 Plackett-Burman design is used for screening experiments i.e. it aids in estimating significant
 factors. This design helps eliminate factors that are not significant for the experiment but can do
 so in fewer data points than what would be required by another design of experiment technique
