@@ -123,6 +123,8 @@ given in table 6.
   <p align="center"> 
 <img width="361" alt="image" src="https://github.com/mandonritika/Optimizing-design-parameters-to-obtain-maximum-helicopter-flight-time/assets/121888216/8e822176-4041-472e-9cfe-037337410f30">
  </p> 
+ 
+ https://github.com/mandonritika/Optimizing-design-parameters-to-obtain-maximum-helicopter-flight-time/blob/33a616de32eac2d7cc82dd4fb6d2a6af40ff98d8/Optimal%20Design.R
 
 
 
